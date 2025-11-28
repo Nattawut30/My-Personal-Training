@@ -1,5 +1,18 @@
-# Guidelines
-You can find all the necessary training materials from my personal workshop session here. <p><p/>
-LinkedIn: www.linkedin.com/in/nattawut-bn <p><p/>
-Email: nattawut.boonnoon@hotmail.com <p><p/>
-Mobile: (+66) 92 271 6680 <p><p/>
+<br>**Nattawut Boonnoon**<br/>
+💼 LinkedIn: www.linkedin.com/in/nattawut-bn
+<br>📧 Email: nattawut.boonnoon@hotmail.com<br/>
+📱 Phone: (+66) 92 271 6680
+
+***Overview***
+-
+You can find all my training files here.
+
+`````bash
+
+- SQL (4 Hours) : COMPLETED 
+- Python (12 Hours) : COMPLETED
+- Pandas (1 Hours) :
+- NumPy (1 Hours) :
+- MatPlotlib (1 Hours) :
+
+`````
