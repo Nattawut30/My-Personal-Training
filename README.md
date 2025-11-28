@@ -9,10 +9,12 @@ You can find all my training files here.
 
 `````bash
 
-- SQL (4 Hours) : COMPLETED 
+- SQL (4 Hours) : COMPLETED
 - Python (12 Hours) : COMPLETED
 - Pandas (1 Hours) :
 - NumPy (1 Hours) :
 - MatPlotlib (1 Hours) :
+- C Programming :
+- C++ Programming :
 
 `````
