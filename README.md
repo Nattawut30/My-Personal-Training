@@ -5,7 +5,8 @@
 
 ***Overview***
 -
-You can find all my training files in this repo.
+Check out all my training files in this repo.
+Enjoy Learning!
 
 `````bash
 
