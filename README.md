@@ -14,8 +14,8 @@ Enjoy Learning!
 - Python (12 Hours)         : COMPLETED ✅
 - NumPy (1 Hours)           : COMPLETED ✅
 - Pandas (1 Hours)          : COMPLETED ✅
-- MatPlotlib (1 Hours)      :
-- C Programming (6 Hours)   :
-- C++ Programming           :
+- MatPlotlib (1 Hours)      : COMPLETED ✅
+- C Programming (7 Hours)   :
+- C++ Programming (7 Hours) :
 
 `````
